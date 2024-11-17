@@ -16,9 +16,14 @@ A extensão utiliza a funcionalidade **PiP (Picture-in-Picture)** do navegador *
 
 ## Como usar?
 
-1. Instale a extensão no navegador **Opera GX**.
-2. Acesse a Twitch e inicie uma transmissão.
-3. Quando um anúncio começar, o PiP será ativado automaticamente, permitindo que você continue assistindo ao conteúdo.
+1. Clique em < >Code.
+2. Depois clique em Download Zip.
+3. Extraia o arquivo para algum lugar de sua escolha.
+4. Vá para seu navegador OperaGX e acesse opera://extensions
+5. Ative a opção Developer mode ou Modo desenvolvedor em português.
+6. Depois Clique na opção load unpacked ou carregar desempacotado (Acho que é esse o nome em pt).
+7. Por fim, basta selecionar a pasta e ela estará funcionando.
+
 
 
 ---
