@@ -1,6 +1,8 @@
 # Extensão para "Remover" ADs da Twitch
 
-Esta extensão foi desenvolvida com o objetivo de tentar burlar os anúncios da Twitch sem prejudicar o streamer.
+Esta extensão foi desenvolvida com o objetivo de tentar burlar os anúncios da Twitch sem prejudicar o streamer mecenario.
+
+![Imagem](/icons/mercenario.png)
 
 ## O que ela faz?
 
@@ -24,8 +26,8 @@ A extensão utiliza a funcionalidade **PiP (Picture-in-Picture)** do navegador *
 6. Depois Clique na opção load unpacked ou carregar desempacotado (Acho que é esse o nome em pt).
 7. Por fim, basta selecionar a pasta e ela estará funcionando.
 
-### Talvez você tenha duas pastas com nomes iguais. peque somente a segunda pasta como mostra a imagem:
-![Imagem](/icons/mercenario.png)
+### Talvez você tenha duas pastas com nomes iguais. pegue somente a segunda pasta como mostra a imagem:
+![Imagem](/icons/Untitled.png)
 
 
 ## Novas atualizações
