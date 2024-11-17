@@ -23,6 +23,10 @@ function handleMutation(mutationsList, observer) {
 
 // Função para ativar o PiP
 function activatePiP(videoElement) {
+  if (videoElement.muted) {
+    videoElement.muted = true;
+  }
+
   // Tenta ativar o PiP automaticamente
   videoElement
     .requestPictureInPicture()
@@ -32,19 +36,18 @@ function activatePiP(videoElement) {
 
       // Caso o erro seja relacionado à falta de um gesto do usuário, tentamos clicar em um botão PiP
       if (error.name === "NotAllowedError") {
-        console.log("Tentando ativar PiP com gesto de usuário...");
         activatePiPWithUserGesture(); // Tentativa de simular um clique
       }
     });
 }
 
 // Função para ativar o PiP clicando no botão PiP, se disponível
+// Isso é necessario para que o navegador não de erro. Só e permitido interação de um usuario.
 function activatePiPWithUserGesture() {
   const pipButton = document.querySelector(".pbyp-player-instance .custom-button"); // Seletor correto do botão
   if (pipButton) {
     pipButton.click(); // Simula o clique
   } else {
-    console.log("Botão de PiP não encontrado");
   }
 }
 
