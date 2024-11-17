@@ -25,7 +25,8 @@ A extensão utiliza a funcionalidade **PiP (Picture-in-Picture)** do navegador *
 7. Por fim, basta selecionar a pasta e ela estará funcionando.
 
 ### Talvez você tenha duas pastas com nomes iguais. peque somente a segunda pasta como mostra a imagem:
-(/icons/Untitled.png)
+![Imagem](caminho/para/imagem)
+
 
 ## Novas atualizações
 
