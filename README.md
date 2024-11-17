@@ -16,6 +16,9 @@ A extensão utiliza a funcionalidade **PiP (Picture-in-Picture)** do navegador *
 2. O conteúdo será exibido em uma janela flutuante, permitindo que o vídeo continue sendo assistido enquanto o anúncio é "burlado".
 3. O processo não afeta o streamer, pois os anúncios não são bloqueados e ainda são contabilizados pela plataforma.
 
+Ela só irá funcionar se essa tela lateral aparecer:
+![Imagem](/icons/funcionando.png)
+
 ## Como usar?
 
 1. Clique em < >Code.
@@ -41,7 +44,7 @@ Qualquer outro tipo de BUG reporte para mim aqui no github.
 ## Novas atualizações
 
 Talvez eu traga novas atualizações para corrigir possiveis bugs.
-Não testei ela para outros navegadores, então se você estiver utilizando algum navegador baseado em chromium talvez ela funcione.
+Não testei ela para outros navegadores, pois não sei se eles permitem PIP na tela lateral.
 
 ## Ajuda
 
