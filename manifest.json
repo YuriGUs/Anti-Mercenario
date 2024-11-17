@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "PiP Auto Clicker",
+  "name": "Anti-Mercenario",
   "version": "1.0",
   "permissions": [
     "activeTab"
