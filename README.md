@@ -29,10 +29,19 @@ A extensão utiliza a funcionalidade **PiP (Picture-in-Picture)** do navegador *
 ### Talvez você tenha duas pastas com nomes iguais. pegue somente a segunda pasta como mostra a imagem:
 ![Imagem](/icons/Untitled.png)
 
+## Possíveis bug
+
+1. Talvez o Picture-in-Picture não apareça de imediato, para resolver basta dar um click na tela. *Você pode aumentar o tamanho da tela do PiP.
+2. O Picture-in-Picture inicia mutado, basta aumentar o audio. (Não consigo mudar isso por código, os navegadores não permitem).
+3. Quando o AD acabar, o Picture-in-Picture irá travar, então você fecha ele e assista a live normalmente até que o PiP seja ativado novamente quando outro AD rolar.
+
+Qualquer outro tipo de BUG reporte para mim aqui no github.
+
 
 ## Novas atualizações
 
 Talvez eu traga novas atualizações para corrigir possiveis bugs.
+Não testei ela para outros navegadores, então se você estiver utilizando algum navegador baseado em chromium talvez ela funcione.
 
 ## Ajuda
 
