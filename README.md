@@ -24,7 +24,13 @@ A extensão utiliza a funcionalidade **PiP (Picture-in-Picture)** do navegador *
 6. Depois Clique na opção load unpacked ou carregar desempacotado (Acho que é esse o nome em pt).
 7. Por fim, basta selecionar a pasta e ela estará funcionando.
 
+## Novas atualizações
 
+Talvez eu traga novas atualizações para corrigir possiveis bugs.
+
+## Ajuda
+
+Se você for um DEV deixe sua estrela e se quiser contribuir fique a vontade.
 
 ---
 
